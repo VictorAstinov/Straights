@@ -1,0 +1,6 @@
+h
+c
+c
+c
+set_score 0
+ragequit

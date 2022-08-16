@@ -1,0 +1,24 @@
+h
+c
+c
+c
+play 7S
+best_move
+play 7D
+play 5C
+play 4C
+play 9C
+play KD
+play 9S
+best_move
+play TS
+best_move
+play 3H
+best_move
+play 3D
+best_move
+play 2H
+best_move
+play QS
+play AD
+quit
